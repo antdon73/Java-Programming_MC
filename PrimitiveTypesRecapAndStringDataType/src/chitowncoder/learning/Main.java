@@ -7,7 +7,7 @@ public class Main {
     int myInt = 50;
     lastString = lastString + myInt;
     System.out.println("LastString is equal to " + lastString);
-    double doubleNumber = 120.47d;
+    double doubleNumber = 150.47d;
     lastString = lastString + doubleNumber;
     System.out.println("LastSting is equal to " + lastString);
   }
